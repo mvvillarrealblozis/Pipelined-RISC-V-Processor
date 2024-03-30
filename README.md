@@ -19,3 +19,6 @@ Included in this project are:
 - **Comprehensive Hazard Unit:** Central to this project, designed to optimize performance by efficiently managing pipeline hazards.
 - **Targeted Test Cases:** Specifically designed programs to test the processor's capability to automatically handle different hazard scenarios without manual `nop` instructions.
 - **Auxiliary Circuits and Files:** Supporting components including RAM modules for `lw` and `sw`, an ASCII-based disassembler, and the necessary decoder logic.
+
+## Top Level Circuit:
+![image](https://github.com/mvvillarrealblozis/Pipelined-RISC-V-Processor/assets/112027248/b8988e92-16b4-40f4-8713-25c598a4dcc0)
