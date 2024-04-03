@@ -20,8 +20,8 @@ Included in this project are:
 - **Targeted Test Cases:** Specifically designed programs to test the processor's capability to automatically handle different hazard scenarios without manual `nop` instructions.
 - **Auxiliary Circuits and Files:** Supporting components including RAM modules for `lw` and `sw`, an ASCII-based disassembler, and the necessary decoder logic.
 
-## Digital: 
-https://github.com/hneemann/Digital
+## Development Tools
+- **Digital:** Circuit design and simulation https://github.com/hneemann/Digital
 
 ## Top Level Circuit:
 ![image](https://github.com/mvvillarrealblozis/Pipelined-RISC-V-Processor/assets/112027248/b8988e92-16b4-40f4-8713-25c598a4dcc0)
